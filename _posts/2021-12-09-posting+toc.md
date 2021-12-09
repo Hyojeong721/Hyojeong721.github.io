@@ -6,10 +6,7 @@ tag : # 포스터 태그
   - github
   - blog
 last_modified_at: 2020-01-14T14:00:00+09:00 # 게시글 마지막 수정일
-toc: true # 우측상단의 목차
-toc_label : posting 방법 # toc의 이름
-toc_icon : #toc의 아이콘
-toc_sticky : True #toc의 고정유무
+
 ---
 
 ✅ 이 글은 진짜 아무것도 모르는 상태에서 내가 나를 위해 쓰는 글
