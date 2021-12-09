@@ -20,14 +20,14 @@ title                    : "Hello Sarah's Blog"
 title_separator          : "-"
 subtitle                 : "성장하는 개발자" # site tagline that appears below site title in masthead
 name                     : "Sarah"
-description              : "An amazing website."
+description              : "세라의 "
 url                      : "https://Hyojeong721.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/Hyojeong721/Hyojeong721.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "매일매일 성장하는 중" # overrides the website title displayed in the masthead, use " " for no title
-# breadcrumbs            : false # true, false (default)
+masthead_title           : "세라의 성장일기" # overrides the website title displayed in the masthead, use " " for no title
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
@@ -102,7 +102,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Sarah"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
