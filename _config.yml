@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Hello Sarah's Blog"
+title                    : "Hello Sarah's Devlog"
 title_separator          : "-"
 subtitle                 :  # site tagline that appears below site title in masthead
 name                     : "Sarah"
@@ -103,7 +103,7 @@ analytics:
 # Site Author
 author:
   name             : "Sarah"
-  avatar           : "assets/images/라이언.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "assets/images/hyojeong.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "기록하며<br>정리하고<br>기억하기"
   location         : "Republic of Korea"
   email            :
